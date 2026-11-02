@@ -1,5 +1,13 @@
 # @ai-sdk/harness-cursor
 
+## 1.0.88
+
+### Patch Changes
+
+- afac7de: fix(harness-cursor): add missing write tool definition
+  - @ai-sdk/harness@1.0.173
+  - @ai-sdk/harness-acp@1.0.113
+
 ## 1.0.87
 
 ### Patch Changes
